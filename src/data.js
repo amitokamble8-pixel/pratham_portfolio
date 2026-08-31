@@ -130,14 +130,6 @@ export const EXPERIENCE = [
 
 export const PROJECTS = [
   {
-    name: "Extended Essay — Economics × Global Politics",
-    org: "IB Diploma Programme",
-    meta: "In Progress",
-    desc: "An interdisciplinary Economics Extended Essay supported by Global Politics, examining an economic question through a broader political and institutional lens. The project is building skills in independent research, argumentation, evaluation, and evidence-based analysis.",
-    tags: ["Economics", "Global Politics", "Independent Research"],
-    featured: true,
-  },
-  {
     name: "QSR Sector Financial Research",
     org: "Ionic Wealth by Angel One",
     meta: "Financial Research Internship",
@@ -272,11 +264,6 @@ export const SPORTS = [
     icon: "🌐",
     name: "Model United Nations",
     desc: "Participated in 8+ conferences and served as a student leader in Grades 9–10, researching international issues, representing different perspectives, and engaging in structured debate.",
-  },
-  {
-    icon: "📰",
-    name: "Reading & Current Affairs",
-    desc: "Regularly follows The Economist and The Economic Times, with particular interest in macroeconomic trends, business developments, current affairs, and global politics. Recent reading includes The Revenge of Geography by Robert D. Kaplan and Prisoners of Geography by Tim Marshall.",
   },
 ];
 
