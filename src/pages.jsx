@@ -313,7 +313,7 @@ export function Sports() {
   return (
     <section className="section">
       <PageHead title="Activities" eyebrow="Beyond Academics" />
-      <div className="grid-3 tight">
+      <div className="grid-2 tight">
         {SPORTS.map((s, i) => (
           <Reveal key={s.name} delay={i * 70}>
             {s.link ? (
