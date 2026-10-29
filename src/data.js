@@ -26,7 +26,7 @@ export const PROFILE = {
     wespa: "",
     twitter: "",
   },
-  cv: "/placeholder-cv.pdf",
+  cv: "",
   photo: "/placeholder-profile.png",
   aboutPhoto: "/placeholder-profile.png",
 };
